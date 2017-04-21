@@ -1,0 +1,4 @@
+com\digitech\controller\UserController.class
+com\digitech\model\User.class
+com\digitech\dao\UserDAO.class
+com\digitech\model\UserCredentials.class
