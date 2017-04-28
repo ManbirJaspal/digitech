@@ -1,0 +1,13 @@
+com\digitech\dao\ProductDAO.class
+com\digitech\model\Category.class
+com\digitech\model\User.class
+com\digitech\controller\SupplierController.class
+com\digitech\dao\UserDAO.class
+com\digitech\controller\UserController.class
+com\digitech\model\UserCredentials.class
+com\digitech\dao\SupplierDAO.class
+com\digitech\model\Supplier.class
+com\digitech\model\Product.class
+com\digitech\controller\CategoryController.class
+com\digitech\controller\ProductController.class
+com\digitech\dao\CategoryDAO.class
